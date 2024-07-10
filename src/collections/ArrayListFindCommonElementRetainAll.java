@@ -12,11 +12,11 @@ public class ArrayListFindCommonElementRetainAll {
 		  al.add("Ajay"); 
 		  
 		  ArrayList<String> al2=new ArrayList<String>();  
-		  al2.add("Rav");  
+		  al2.add("Ravi");  
 		  al2.add("Ajay"); 
 		  
 		  ArrayList<String> al3=new ArrayList<String>();  
-		  al3.add("Ravi");  
+		  al3.add("Rav");  
 		  al3.add("Ajay");
 		  
 		  al.retainAll(al2);
