@@ -25,7 +25,7 @@ public class StringReversal {
 	
 	
 	public static void main(String[] args) {
-		String str = "Bharath";
+		String str = "Utpal";
 
 		StringReversal sr = new StringReversal();
 		System.out.println(sr.firstWay(str));

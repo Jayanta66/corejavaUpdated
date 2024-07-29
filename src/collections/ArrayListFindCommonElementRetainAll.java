@@ -16,7 +16,7 @@ public class ArrayListFindCommonElementRetainAll {
 		  al2.add("Ajay"); 
 		  
 		  ArrayList<String> al3=new ArrayList<String>();  
-		  al3.add("Rav");  
+		  al3.add("Ravi");  
 		  al3.add("Ajay");
 		  
 		  al.retainAll(al2);
