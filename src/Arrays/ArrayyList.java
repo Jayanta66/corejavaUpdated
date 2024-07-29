@@ -13,10 +13,7 @@ public class ArrayyList {
 		while(itr.hasNext()) {
 			if(itr.next().equals("c")) {
 				list.remove("c");
-		
-				// Interview Question of LTIMindtree
-				
-				//samit kumar das give me  ranajay datta's number  9903063051
+
 				
 				//ConcurrentModificationException
 				
