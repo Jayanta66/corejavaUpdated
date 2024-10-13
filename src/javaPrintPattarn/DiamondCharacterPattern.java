@@ -16,7 +16,7 @@ char user_alphabet = reader.next("[A-Z]").charAt(0);
 // search for letter number in the array letter  
 for (int i = 0; i < alphabet.length; i++)   
 {  
-//char[] letter = null;
+char[] letter = null;
 if (letter[i] == user_alphabet)   
 {  
 alphabet_number = i;  
